@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug encountered when using React Router Dom v6.  The issue involves unexpected rendering behavior after navigating between routes.  The `bug.js` file shows the problematic code.  The `bugSolution.js` file provides the corrected implementation.
